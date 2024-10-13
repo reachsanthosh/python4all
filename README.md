@@ -1,7 +1,7 @@
 # Python Programming Guide
 
 ## Computer Hardware Arch
-- input output device 
+- Input output device 
 - Software
   - CPU
   - Memory
