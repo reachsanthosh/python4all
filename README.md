@@ -2,9 +2,9 @@
 
 ## Computer Hardware Arch
 - input output device 
-- Software 
--- CPU
--- Memory
+- Software
+  - CPU
+  - Memory
 - Network 
 - Secondary Memory 
 
